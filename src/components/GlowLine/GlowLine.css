@@ -1,0 +1,14 @@
+.glow-line-container {
+    position: relative;
+    width: 100%;
+    top: 50%;
+    left: 0;
+    right: 0;
+  }
+  
+  .glow-line {
+    width: 100%;
+    background-color: black;
+    border-radius: 1.5rem;
+  }
+  
